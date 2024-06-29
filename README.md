@@ -33,9 +33,10 @@ iii)Create relevant insights that are not provided in the metric list/mock-up da
 
 
  -> **Learnt things from this Project**
+ 
 i) Learned how to create a new visualization (Calendar visualization) using matrix tables which can be used for various analytical purposes.
 
-ii) Looking at different cancellation policies of different hotels, I found that most of the hotels do not charge any fee unless the booking is cancelled within 3 months of the booking date. In case of post-booking cancellation, they charge a fee ranging from 60-90% of the booking fee.
+ii) Looking at different cancellation policies of different products, I found that most of the Brands do not charge any fee for the cancellation of the products.
 
 iii) Learned how to use bookmarks and selectors for different purposes.
 
